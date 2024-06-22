@@ -11,7 +11,7 @@ html {
     align-items: center;
     height: 100vh;
     overflow: hidden;
-    background-color: azure;
+    background-color: black;
 }
 
 #container {
@@ -54,7 +54,7 @@ button {
 }
 
 .operator {
-    background-color: #FF8F1F;    
+    background-color: yellow;    
 }
 
 .operator:focus {
@@ -62,7 +62,7 @@ button {
 }
 
 .equals {
-    background-color: #FF8F1F;
+    background-color: red;
 }
 
 .equals:active {
